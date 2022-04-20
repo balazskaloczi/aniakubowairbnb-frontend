@@ -9,7 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-google-maps/api": "^2.8.1",
+    "@sanity/image-url": "^1.0.1",
     "next": "12.1.4",
+    "next-sanity": "^0.5.2",
     "react": "18.0.0",
     "react-dom": "18.0.0"
   },
